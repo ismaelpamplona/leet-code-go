@@ -1,0 +1,1 @@
+# p392_is_subsequence (Issue)
